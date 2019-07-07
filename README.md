@@ -9,6 +9,8 @@ Create an array of strings called `colors` that contain "orange", "red", "yellow
 Then, using array subscripting and string interpolation, print out the String `"orange, yellow, and lavender are some of my favorite colors"`.
 
 
+var rainbow = [ orange, red, yellow, turqoise, lavender]
+
 ## Question 2
 
 Remove "Illinois" and "Kansas" from the array below.
